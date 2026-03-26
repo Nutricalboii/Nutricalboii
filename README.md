@@ -1,51 +1,4 @@
 <h1 align="center">Hey There 👋</h1>
-<h3 align="center">Vaibhav Sharma | Engineering Student | Full-Stack Aspirant</h3>
-
-<p align="center">
-Systems • Backend • Linux • Automation • Secure Code
-</p>
-
----
-
-### 🧠 About Me
-
-Engineering student working toward becoming a well-rounded full-stack developer.  
-Interested in systems, tooling, Linux & Android internals.  
-I value clean structure, predictable behavior, and strong fundamentals.
-
-This GitHub is a working desk — some projects are public, many evolving privately.
-
----
-
-### ⚡ Focus Areas
-
-- Web Development  
-- Backend APIs & Databases  
-- Linux & Android Systems  
-- Automation  
-- Security-aware Development  
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nutricalboii&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nutricalboii&theme=tokyonight&hide_border=true" height="165"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nutricalboii&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</p>
-
----
-
-### 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nutricalboii/nutricalboii/output/github-contribution-grid-snake.svg"/>
@@ -53,18 +6,39 @@ This GitHub is a working desk — some projects are public, many evolving privat
 
 ---
 
-### 🏆 GitHub Profile Trophy
+hola!
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nutricalboii&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+Vaibhav Sharma (@nutricalboii)
+
+Engineering Student | Aspiring Full-Stack Developer
+
+Engineering student working toward becoming a well-rounded full-stack developer  
+Enjoy building things end-to-end, from frontend behavior to backend logic and runtime environments  
+Strong interest in systems and tooling; experience with Linux, Android internals, terminals, and automation  
+Value clean structure, predictable behavior, and code that holds up under edge cases  
+Believe in fundamentals over shortcuts; tools and frameworks come after understanding  
+This GitHub is a working desk — a curated window into my work, with many projects evolving privately  
 
 ---
 
-### 👀 Visitors
+### Focus Areas & Interests
+
+- Web Development  
+- Backend APIs & Databases  
+- Linux & Android  
+- Automation  
+- Security-aware development  
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nutricalboii&label=Profile%20Views&color=blueviolet&style=flat"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=nutricalboii&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nutricalboii&theme=tokyonight&hide_border=true" height="170"/>
+
 </p>
 
 ---
