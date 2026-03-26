@@ -1,7 +1,7 @@
-<h1 align="center">जय श्री महाकाल 🙏</h1>
+<h1 align="center">Vaibhav Sharma</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00FF88&center=true&vCenter=true&width=900&lines=Vaibhav+Sharma;Engineering+Student;Full+Stack+Developer+in+Progress;Linux+%7C+Systems+%7C+Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00FF88&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Learner;Building+Real+World+Projects;Interested+in+Systems+and+Automation" />
 </p>
 
 <p align="center">
@@ -10,32 +10,37 @@
 
 ---
 
-hola!
+### About
 
-Vaibhav Sharma (@nutricalboii)
+I am currently focused on developing strong foundations in Full-Stack Development and DevOps practices.  
+My learning approach revolves around building practical projects, understanding backend workflows, exploring deployment pipelines, and improving system awareness over time.
 
-Engineering Student | Aspiring Full-Stack Developer
-
-Engineering student working toward becoming a well-rounded full-stack developer  
-Enjoy building things end-to-end, from frontend behavior to backend logic and runtime environments  
-Strong interest in systems and tooling; experience with Linux, Android internals, terminals, and automation  
-Value clean structure, predictable behavior, and code that holds up under edge cases  
-Believe in fundamentals over shortcuts; tools and frameworks come after understanding  
-This GitHub is a working desk — a curated window into my work, with many projects evolving privately  
+I enjoy working across different layers of applications — from frontend behavior to backend logic and runtime environments.  
+This profile reflects ongoing learning, experimentation, and steady progress.
 
 ---
 
-## ⚡ Focus Areas & Interests
+### Current Focus
 
-- Web Development  
-- Backend APIs & Databases  
-- Linux & Android  
-- Automation  
-- Security-aware development  
+- Full Stack Web Development  
+- Backend APIs and Database Design  
+- DevOps Fundamentals and Deployment Workflows  
+- Automation and Productivity Tooling  
+- Improving Software Reliability  
 
 ---
 
-## 📊 Analytics
+### Approach to Learning
+
+- Learn by building real projects  
+- Understand before optimizing  
+- Focus on maintainable and predictable code  
+- Explore system behavior beyond surface level  
+- Document progress and architectural decisions  
+
+---
+
+### GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nutricalboii&show_icons=true&theme=transparent&hide_border=true&title_color=00ff88&text_color=ffffff&icon_color=00ff88" height="170"/>
@@ -44,4 +49,4 @@ This GitHub is a working desk — a curated window into my work, with many proje
 
 ---
 
-⭐ *“Code that survives edge cases is real engineering.”*
+⭐ *Consistent progress builds real engineering confidence.*
