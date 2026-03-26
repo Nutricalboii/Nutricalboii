@@ -1,4 +1,8 @@
-<h1 align="center">जय श्री महाकाल!</h1>
+<h1 align="center">जय श्री महाकाल 🙏</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00FF88&center=true&vCenter=true&width=900&lines=Vaibhav+Sharma;Engineering+Student;Full+Stack+Developer+in+Progress;Linux+%7C+Systems+%7C+Automation" />
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nutricalboii/nutricalboii/output/github-contribution-grid-snake-dark.svg"/>
@@ -21,7 +25,7 @@ This GitHub is a working desk — a curated window into my work, with many proje
 
 ---
 
-### Focus Areas & Interests
+## ⚡ Focus Areas & Interests
 
 - Web Development  
 - Backend APIs & Databases  
@@ -31,14 +35,11 @@ This GitHub is a working desk — a curated window into my work, with many proje
 
 ---
 
-### 📊 GitHub Stats
+## 📊 Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nutricalboii&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nutricalboii&theme=tokyonight&hide_border=true" height="170"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=nutricalboii&show_icons=true&theme=transparent&hide_border=true&title_color=00ff88&text_color=ffffff&icon_color=00ff88" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nutricalboii&theme=black-ice&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" height="170"/>
 </p>
 
 ---
