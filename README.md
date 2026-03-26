@@ -49,4 +49,4 @@ This profile reflects ongoing learning, experimentation, and steady progress, wi
 
 ---
 
-⭐ * I experiment where theory meets hardware, build where failure is possible, and use AI as a tool — because systems that survive reality are never accidental.*
+⭐ * I experiment where theory meets hardware, build where failure is possible, and use AI as a tool — because systems that survive reality are never accidental. *
