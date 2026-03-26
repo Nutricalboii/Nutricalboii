@@ -16,7 +16,7 @@ I am currently focused on developing strong foundations in Full-Stack Developmen
 My learning approach revolves around building practical projects, understanding backend workflows, exploring deployment pipelines, and improving system awareness over time.
 
 I enjoy working across different layers of applications — from frontend behavior to backend logic and runtime environments.  
-This profile reflects ongoing learning, experimentation, and steady progress.
+This profile reflects ongoing learning, experimentation, and steady progress, with some projects evolving privately
 
 ---
 
