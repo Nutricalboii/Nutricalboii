@@ -8,19 +8,6 @@
 
 ---
 
-```text
-Not the loudest in the room. Probably the one who already figured it out.
-
-I'm a CS student from Dehradun who doesn't wait for permission to build things.
-I reverse-engineered my own laptop because Linux took away my GPU and I refused to accept that.
-I'm porting Android 13 to a phone that was never supposed to run it — 3 months in, still going.
-I built an encrypted vault because I didn't trust anyone else's definition of private.
-I follow equity markets. I think about systems at 2am. I break things on purpose to see what holds.
-I'm not the best student in the class. I'm the one who shipped something real before the semester ended.
-```
-
----
-
 ## 🐍 Contribution
 
 <p align="center">
@@ -28,13 +15,25 @@ I'm not the best student in the class. I'm the one who shipped something real be
 </p>
 
 ---
+Here it is:
 
+```
 ## ⚡ Currently Building
 
-I'm deep in three parallel projects right now. **Vaelix OS** is my attempt to build a Linux distribution that actually feels like premium hardware — not just another reskin, a full system with its own identity, performance profiles, and battery intelligence. **LOQ Control Center** started as a GPU switching script and became a production-grade hardware orchestration platform with a systemd daemon, thermal engine, and 6 versioned releases. And the **Android 13 bring-up** on a Moto G5 Plus is where I go when I want to understand how software and hardware actually talk to each other at the lowest level — 3 months in, still going.
+Most people build features. I'm building a world.
 
-Everything I build is documented as it evolves. The repos tell the real story.
+**Vaelix OS** is the foundation — a Linux distribution that doesn't apologize for wanting to feel like premium hardware. Not a reskin. A full system with its own identity, its own performance logic, its own battery intelligence. The kind of OS that knows what it is.
 
+**LOQ Control Center** is the hardware brain. It started as a GPU switching script — the kind of thing you write at midnight because Linux took something from you and you refused to accept it. It became a production-grade orchestration platform: systemd daemon, adaptive thermal engine, Polkit-gated privilege architecture, 6 versioned releases. It became something worth depending on.
+
+**The Android 13 bring-up** on a Moto G5 Plus is where I go when I want to stop assuming and start knowing — how the kernel talks to hardware, how abstraction layers lie to you, how the build system breaks in ways that force you to understand rather than bypass. 3 months in. Still going. That's the point.
+
+Underneath all of this is a longer ambition. Everything I build is open source — not as a policy, but as a debt I intend to repay. The best things I learned came from people who shared their work without asking for anything. I intend to return that.
+
+Over time these stop being separate tools. Vaelix as the base. LOQ Control as the hardware brain. Notum for private memory. ADYA as the intelligence layer. ScholarSync for knowledge. Not a product. Not a startup. Just a set of systems that work together the way I think they should — and that anyone can use, study, or build on.
+
+The repos document everything as it evolves. That's the real story.
+```
 ---
 
 ## 📊 GitHub Analytics
