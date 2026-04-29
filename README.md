@@ -15,7 +15,6 @@ I'm a CS student from Dehradun who doesn't wait for permission to build things.
 I reverse-engineered my own laptop because Linux took away my GPU and I refused to accept that.
 I'm porting Android 13 to a phone that was never supposed to run it — 3 months in, still going.
 I built an encrypted vault because I didn't trust anyone else's definition of private.
-
 I follow equity markets. I think about systems at 2am. I break things on purpose to see what holds.
 I'm not the best student in the class. I'm the one who shipped something real before the semester ended.
 ```
@@ -80,5 +79,5 @@ Everything I build is documented as it evolves. The repos tell the real story.
 </p>
 
 <p align="center">
-<i>"Most people wait to be ready. I just start — because the only way to know if something holds is to put pressure on it."</i>
+<i>"I experiment where theory meets hardware, build where failure is possible, and use AI as a tool — because systems that survive reality are never accidental."</i>
 </p>
