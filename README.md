@@ -53,4 +53,4 @@ Currently sharpening skills in scalable applications, deployment pipelines, APIs
 
 ## Signature
 
-> I experiment where theory meets hardware, build where failure is possible, and use AI as a tool — because systems that survive reality are never accidental.
+> <h1 I experiment where theory meets hardware, build where failure is possible, and use AI as a tool — because systems that survive reality are never accidental.h1>
