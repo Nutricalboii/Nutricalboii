@@ -15,9 +15,7 @@
 </p>
 
 ---
-Here it is:
 
-```
 ## ⚡ Currently Building
 
 Most people build features. I'm building a world.
@@ -30,10 +28,12 @@ Most people build features. I'm building a world.
 
 Underneath all of this is a longer ambition. Everything I build is open source — not as a policy, but as a debt I intend to repay. The best things I learned came from people who shared their work without asking for anything. I intend to return that.
 
-Over time these stop being separate tools. Vaelix as the base. LOQ Control as the hardware brain. Notum for private memory. ADYA as the intelligence layer. ScholarSync for knowledge. Not a product. Not a startup. Just a set of systems that work together the way I think they should — and that anyone can use, study, or build on.
+Over time these stop being separate tools. **Vaelix** as the base. **LOQ Control** as the hardware brain. **Notum** for private memory. **ADYA** as the intelligence layer. **ScholarSync** for knowledge.
+
+Not a product. Not a startup. Just a set of systems that work together the way I think they should — and that anyone can use, study, or build on.
 
 The repos document everything as it evolves. That's the real story.
-```
+
 ---
 
 ## 📊 GitHub Analytics
@@ -47,10 +47,11 @@ The repos document everything as it evolves. That's the real story.
 ---
 
 ## 🏗️ Build Philosophy
-▸ Learn by shipping — not by watching
-▸ Understand before optimizing
-▸ Failure is data, not defeat
-▸ Real systems break. Fix them properly.
+
+▸ Learn by shipping — not by watching  
+▸ Understand before optimizing  
+▸ Failure is data, not defeat  
+▸ Real systems break. Fix them properly.  
 ▸ AI is a tool. Thinking is still yours.
 
 ---
