@@ -8,11 +8,13 @@
 
 ---
 
-```diff
-+ I build where logic meets pressure.
-+ I experiment where theory meets hardware.
-+ I use AI as a tool — not a shortcut.
-+ Systems that survive reality are never accidental.
+```text
+I'm a 3rd-year CS student from Dehradun who gets uncomfortable staying comfortable.
+I switched my main laptop to Linux and ended up reverse-engineering its hardware.
+I picked up an old phone and decided to port Android 13 to it myself.
+I wanted a notes app with real privacy so I built one from scratch.
+That's just how I learn — by finding something that bothers me and building until it doesn't.
+Outside the screen I follow markets, think about systems, and occasionally break things I probably shouldn't.
 ```
 
 ---
@@ -25,24 +27,11 @@
 
 ---
 
-## ⚡ What I'm Building
+## ⚡ Currently Building
 
-| Project | Stack | Status |
-|---|---|---|
-| 🐧 **Vaelix OS** | Ubuntu · KDE Plasma · XanMod · Bash | 🔨 Active |
-| 🛰️ **LOQ Control Center** | Python · GTK4 · Linux · ACPI · Cairo | ✅ v2.0.1 Stable |
-| 📱 **Android 13 Bring-up** | C++ · Kernel 3.18 · Soong · VINTF | 🔨 Active |
-| 🔐 **Notum** | Electron · Fastify · AES-256-GCM · WebCrypto | 🔨 Active |
-| 🎓 **ScholarSync** | Next.js · FastAPI · ChromaDB · Gemini 2.0 | ✅ Live |
-| 🤖 **ADYA** | Python · PyQt5 · Gemini API · asyncio | 🔨 Active |
+I'm deep in three parallel projects right now. **Vaelix OS** is my attempt to build a Linux distribution that actually feels like premium hardware — not just another reskin, a full system with its own identity, performance profiles, and battery intelligence. **LOQ Control Center** started as a GPU switching script and became a production-grade hardware orchestration platform with a systemd daemon, thermal engine, and 6 versioned releases. And the **Android 13 bring-up** on a Moto G5 Plus is where I go when I want to understand how software and hardware actually talk to each other at the lowest level — 3 months in, still going.
 
----
-
-## 🛠️ Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nextjs,react,express,fastapi,mongodb,electron,linux,bash,git,github,gtk&theme=dark&perline=8" />
-</p>
+Everything I build is documented as it evolves. The repos tell the real story.
 
 ---
 
@@ -69,11 +58,15 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/vaibsharma86">
-<img src="https://img.shields.io/badge/LinkedIn-vaibsharma86-00ff88?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LinkedIn-vaibsharma86-white?style=flat-square&logo=linkedin&logoColor=0077B5&labelColor=ffffff&color=ffffff"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/the_vaibhavshrma">
+<img src="https://img.shields.io/badge/Instagram-the__vaibhavshrma-white?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=ffffff&color=ffffff"/>
 </a>
 &nbsp;
 <a href="mailto:vaibhav282227@gmail.com">
-<img src="https://img.shields.io/badge/Email-vaibhav282227@gmail.com-00ff88?style=flat-square&logo=gmail&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Email-vaibhav282227@gmail.com-white?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=ffffff&color=ffffff"/>
 </a>
 </p>
 
@@ -85,4 +78,4 @@
 
 <p align="center">
 <i>"I experiment where theory meets hardware, build where failure is possible, and use AI as a tool — because systems that survive reality are never accidental."</i>
-</p>Sonnet 4.6
+</p>
