@@ -79,5 +79,5 @@ The repos document everything as it evolves. That's the real story.
 </p>
 
 <p align="center">
-<i>"I experiment where theory meets hardware, build where failure is possible, and use AI as a tool — because systems that survive reality are never accidental."</i>
+## <i>"I experiment where theory meets hardware, build where failure is possible, and use AI as a tool — because systems that survive reality are never accidental."</i>
 </p>
