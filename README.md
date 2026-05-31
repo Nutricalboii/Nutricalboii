@@ -94,5 +94,5 @@ The repos document everything as it evolves. That's the real story.
 </p>
 
 <p align="center">
-<i>"Most people wait to be ready. I just start — because the only way to know if something holds is to put pressure on it."</i>
+<i>"I experiment where theory meets hardware, build where failure is possible, and use AI as a tool — because systems that survive reality are never accidental.."</i>
 </p>
