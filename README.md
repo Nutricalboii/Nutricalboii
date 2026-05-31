@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3200&pause=800&color=aaffcc&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=160&lines=Not+the+loudest+in+the+room.+Probably+the+one+who+already+figured+it+out.;I+don't+wait+for+permission+to+build+things.;I+reverse-engineered+my+own+laptop+because+Linux+took+my+GPU+and+I+refused+to+accept+that.;I'm+porting+Android+13+to+a+phone+that+was+never+supposed+to+run+it+%E2%80%94+3+months+in%2C+still+going.;I+built+an+encrypted+vault+because+I+didn't+trust+anyone+else's+definition+of+private." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3200&pause=800&color=aaffcc&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=160&lines=Not+the+loudest+in+the+room.+Probably+the+one+who+already+figured+it+out.;I+don%27t+wait+for+permission+to+build+things.;I+reverse-engineered+my+own+laptop+because+Linux+took+my+GPU+and+I+refused+to+accept+that.;I%27m+porting+Android+13+to+a+phone+that+was+never+supposed+to+run+it+%E2%80%94+3+months+in%2C+still+going.;I+built+an+encrypted+vault+because+I+didn%27t+trust+anyone+else%27s+definition+of+private." />
 </p>
 
 > *I follow equity markets. I think about systems at 2am. I break things on purpose to see what holds.*
@@ -52,9 +52,13 @@ The repos document everything as it evolves. That's the real story.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nutricalboii&show_icons=true&theme=transparent&hide_border=true&title_color=00ff88&text_color=ffffff&icon_color=00ff88&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nutricalboii&show_icons=true&theme=transparent&hide_border=true&title_color=00ff88&text_color=ffffff&icon_color=00ff88&count_private=true&cache_seconds=1800" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nutricalboii&layout=compact&theme=transparent&hide_border=true&title_color=00ff88&text_color=ffffff&langs_count=8&exclude_repo=android_device_motorola_potter,android13" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nutricalboii&layout=compact&theme=transparent&hide_border=true&title_color=00ff88&text_color=ffffff&langs_count=8&exclude_repo=android_device_motorola_potter,android13&cache_seconds=1800" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=nutricalboii&theme=transparent&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&dates=aaffcc&stroke=00ff88" height="165"/>
 </p>
 
 ---
@@ -94,5 +98,5 @@ The repos document everything as it evolves. That's the real story.
 </p>
 
 <p align="center">
-<i>"I experiment where theory meets hardware, build where failure is possible, and use AI as a tool — because systems that survive reality are never accidental.."</i>
+<i>"I experiment where theory meets hardware, build where failure is possible, and use AI as a tool — because systems that survive reality are never accidental."</i>
 </p>
