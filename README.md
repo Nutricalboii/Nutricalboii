@@ -8,10 +8,23 @@
 
 ---
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3200&pause=800&color=aaffcc&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=160&lines=Not+the+loudest+in+the+room.+Probably+the+one+who+already+figured+it+out.;I+don't+wait+for+permission+to+build+things.;I+reverse-engineered+my+own+laptop+because+Linux+took+my+GPU+and+I+refused+to+accept+that.;I'm+porting+Android+13+to+a+phone+that+was+never+supposed+to+run+it+%E2%80%94+3+months+in%2C+still+going.;I+built+an+encrypted+vault+because+I+didn't+trust+anyone+else's+definition+of+private." />
+</p>
+
+> *I follow equity markets. I think about systems at 2am. I break things on purpose to see what holds.*
+> *I'm not the best student in the class. I'm the one who shipped something real before the semester ended.*
+>
+> *There's a longer vision underneath all of this — every project I build is open source by default,*
+> *and one day they stop being separate tools and start becoming a coherent ecosystem.*
+> *Not a product. Just systems that work together the way I think they should.*
+
+---
+
 ## 🐍 Contribution
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/nutricalboii/nutricalboii/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/nutricalboii/nutricalboii/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -48,11 +61,13 @@ The repos document everything as it evolves. That's the real story.
 
 ## 🏗️ Build Philosophy
 
-▸ Learn by shipping — not by watching  
-▸ Understand before optimizing  
-▸ Failure is data, not defeat  
-▸ Real systems break. Fix them properly.  
+```
+▸ Learn by shipping — not by watching
+▸ Understand before optimizing
+▸ Failure is data, not defeat
+▸ Real systems break. Fix them properly.
 ▸ AI is a tool. Thinking is still yours.
+```
 
 ---
 
@@ -79,5 +94,5 @@ The repos document everything as it evolves. That's the real story.
 </p>
 
 <p align="center">
-<i>"I experiment where theory meets hardware, build where failure is possible, and use AI as a tool — because systems that survive reality are never accidental."</i>
+<i>"Most people wait to be ready. I just start — because the only way to know if something holds is to put pressure on it."</i>
 </p>
